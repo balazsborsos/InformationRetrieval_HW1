@@ -1,1 +1,1 @@
-# InformationRetriveal
+# InformationRetrieval
